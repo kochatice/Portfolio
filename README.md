@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mustafa Yucel Portofolio
 
 You can use the [editor on GitHub](https://github.com/kochatice/tett/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
